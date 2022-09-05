@@ -12,7 +12,7 @@ const Navbar = () => {
   return (
     <div className="navbar-container">
       <p>
-        <Link href="/">Ray's popup store</Link>
+        <Link href="/">BuyOh</Link>
       </p>
       <button
         type="button"
