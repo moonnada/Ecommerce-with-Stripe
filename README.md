@@ -1,2 +1,4 @@
 # BuyOh (Ecommerce-with-Stripe)
-[https://ecommerce-with-stripe-hazel.vercel.app/](http://www.buyoh.store/)http://www.buyoh.store/
+http://www.buyoh.store/
+
+E-commerce website that user can purchase electronic devices such as headphones or speakers.
